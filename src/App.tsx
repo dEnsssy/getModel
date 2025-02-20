@@ -1,4 +1,3 @@
-import React from "react";
 import ParamEditor from "./ParamEditor";
 
 interface Param {
